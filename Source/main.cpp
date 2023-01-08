@@ -25,28 +25,28 @@
 
 int main()
 {
-	AbstractFactoryClientApp		App1(EPlatform::Windows);
-	BuilderClientApp				App2(EPlatform::Windows);
-	FactoryMethodClientApp			App3(EPlatform::Mac);
-	PrototypeClientApp				App4;
-	AdapterClientApp				App5;
-	BridgeClientApp					App6;
-	ComposerClientApp				App7;
-	DecoratorClientApp				App8;
-	FacadeClientApp					App9;
-	FlyweightClientApp				App10;
-	ProxyClientApp					App11;
-	ChainOfResponsibilityClientApp	App12;
-	CommandClientApp				App13;
-	InterpreterClientApp			App14;
-	IteratorClientApp				App15;
-	MediatorClientApp				App16;
-	MementoClientApp				App17;
-	ObserverClientApp				App18;
-	StateClientApp					App19;
-	StrategyClientApp				App20;
-	TemplatedMethodClientApp		App21;
-	VisitorClientApp				App22;
+	//AbstractFactoryClientApp				App1(EPlatform::Windows);
+	//BuilderClientApp						App2(EPlatform::Windows);
+	//FactoryMethodClientApp				App3(EPlatform::Mac);
+	//PrototypeClientApp					App4;
+	//AdapterClientApp						App5;
+	//BridgeClientApp						App6;
+	//ComposerClientApp						App7;
+	//DecoratorClientApp					App8;
+	//FacadeClientApp						App9;
+	//FlyweightClientApp					App10;
+	//ProxyClientApp						App11;
+	//ChainOfResponsibilityClientApp		App12;
+	//CommandClientApp						App13;
+	//InterpreterClientApp					App14;
+	//IteratorClientApp						App15;
+	//MediatorClientApp						App16;
+	//MementoClientApp						App17;
+	//ObserverClientApp						App18;
+	//StateClientApp						App19;
+	//StrategyClientApp						App20;
+	//TemplatedMethodClientApp				App21;
+	//VisitorClientApp						App22;
 
 	return 0;
 }
